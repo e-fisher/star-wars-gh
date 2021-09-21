@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/star-wars-gh-pages/static/css/main.6ab73012.chunk.css",
-    "main.js": "/star-wars-gh-pages/static/js/main.e53eed1b.chunk.js",
-    "main.js.map": "/star-wars-gh-pages/static/js/main.e53eed1b.chunk.js.map",
-    "runtime-main.js": "/star-wars-gh-pages/static/js/runtime-main.761d2053.js",
-    "runtime-main.js.map": "/star-wars-gh-pages/static/js/runtime-main.761d2053.js.map",
-    "static/js/2.06b6d2bb.chunk.js": "/star-wars-gh-pages/static/js/2.06b6d2bb.chunk.js",
-    "static/js/2.06b6d2bb.chunk.js.map": "/star-wars-gh-pages/static/js/2.06b6d2bb.chunk.js.map",
-    "static/js/3.2eed1adc.chunk.js": "/star-wars-gh-pages/static/js/3.2eed1adc.chunk.js",
-    "static/js/3.2eed1adc.chunk.js.map": "/star-wars-gh-pages/static/js/3.2eed1adc.chunk.js.map",
+    "main.js": "/star-wars-gh-pages/static/js/main.78b3fc20.chunk.js",
+    "main.js.map": "/star-wars-gh-pages/static/js/main.78b3fc20.chunk.js.map",
+    "runtime-main.js": "/star-wars-gh-pages/static/js/runtime-main.1fb5d244.js",
+    "runtime-main.js.map": "/star-wars-gh-pages/static/js/runtime-main.1fb5d244.js.map",
+    "static/js/2.d5796364.chunk.js": "/star-wars-gh-pages/static/js/2.d5796364.chunk.js",
+    "static/js/2.d5796364.chunk.js.map": "/star-wars-gh-pages/static/js/2.d5796364.chunk.js.map",
+    "static/js/3.46f6f1a4.chunk.js": "/star-wars-gh-pages/static/js/3.46f6f1a4.chunk.js",
+    "static/js/3.46f6f1a4.chunk.js.map": "/star-wars-gh-pages/static/js/3.46f6f1a4.chunk.js.map",
     "index.html": "/star-wars-gh-pages/index.html",
     "static/css/main.6ab73012.chunk.css.map": "/star-wars-gh-pages/static/css/main.6ab73012.chunk.css.map",
-    "static/js/2.06b6d2bb.chunk.js.LICENSE.txt": "/star-wars-gh-pages/static/js/2.06b6d2bb.chunk.js.LICENSE.txt",
+    "static/js/2.d5796364.chunk.js.LICENSE.txt": "/star-wars-gh-pages/static/js/2.d5796364.chunk.js.LICENSE.txt",
     "static/media/StarJedi.13d540eb.woff": "/star-wars-gh-pages/static/media/StarJedi.13d540eb.woff",
     "static/media/StarJedi.74a9f1ff.woff2": "/star-wars-gh-pages/static/media/StarJedi.74a9f1ff.woff2",
     "static/media/logo.0489f5cd.png": "/star-wars-gh-pages/static/media/logo.0489f5cd.png",
     "static/media/starfield-bg.ac306ea2.png": "/star-wars-gh-pages/static/media/starfield-bg.ac306ea2.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.761d2053.js",
-    "static/js/2.06b6d2bb.chunk.js",
+    "static/js/runtime-main.1fb5d244.js",
+    "static/js/2.d5796364.chunk.js",
     "static/css/main.6ab73012.chunk.css",
-    "static/js/main.e53eed1b.chunk.js"
+    "static/js/main.78b3fc20.chunk.js"
   ]
 }
